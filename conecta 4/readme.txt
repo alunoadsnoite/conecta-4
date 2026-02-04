@@ -1,3 +1,1 @@
-- projeto de inteligência articial da unibra.
-- usado no arquivo valdenor.py a IA das abelhas.
-- função do jogo, completar 4 bolas primeiro, seja horizontal, vertical ou diagonal.
+Este repositório possui um README.md com instruções completas de uso.
